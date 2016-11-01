@@ -1,0 +1,25 @@
+/* add custom styles */
+.jumbotron {
+  background: url('../img/landing.jpeg');
+  color: white;
+  height: 400px;
+}
+.row {
+  margin-bottom: 20px;
+}
+.content {
+  min-height: 250px;
+  background-color: grey;
+  padding: 5px 15px;
+  color: white;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.smaller-content {
+  color: whitesmoke;
+  height: 150px;
+  background-color: brown;
+  padding: 5px 15px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
